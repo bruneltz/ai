@@ -5,3 +5,7 @@ Autonomously pursue goals and complete tasks on behalf of users by reasoning, pl
 - python -m venv venv
 - .\venv\Scripts\activate  
 - pip install -r .\requirements.txt
+- python .\main.py
+
+## Lessons learned
+- Be very specific in the prompt to guarantee the format is followed and the tools are used.
