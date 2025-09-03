@@ -1,0 +1,10 @@
+--- Research Output ---
+Timestamp: 2025-09-03 15:27:45
+
+Data structures research data: Topic - Data structures, Summary - In computer science, a data structure is a data organization and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data. Sources: Wikipedia
+
+--- Research Output ---
+Timestamp: 2025-09-03 17:03:26
+
+JSON Web Token (JWT) is a proposed Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims. The tokens are designed to be compact, URL-safe, and usable, especially in a web-browser single-sign-on (SSO) context. JWT claims can typically be used to assert information about the user and potentially about the user's permissions.
+
